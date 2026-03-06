@@ -3,3 +3,4 @@ pymcel
 rebound
 matplotlib
 scipy
+nbformat>=4.2.0
